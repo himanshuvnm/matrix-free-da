@@ -123,7 +123,7 @@ The experiment compares:
 ## 🔬 What Does the Figure Show?
 
 <p align="center">
-  <img src="gefs_hgt500_q060_4panel_final_submit_fixedspacing.pdf" width="90%" alt="GEFS HGT500 matrix-free covariance-response experiment">
+  <img src="gefs_hgt500_q060_4panel_final_submit_fixedspacing-1.png" width="90%" alt="GEFS HGT500 matrix-free covariance-response experiment">
 </p>
 
 <p align="center">
